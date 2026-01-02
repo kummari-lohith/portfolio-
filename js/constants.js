@@ -44,6 +44,14 @@ const SOCIAL_LINKS = [
 
 const PROJECTS = [
     {
+        title: "Netflix Clone",
+        description: "A feature-rich Netflix clone with authentication, movie browsing, and dynamic content. Implements TMDB API integration, React Context for state management, and advanced UI features like search, modals, and carousels.",
+        image: "images/project4.jpg",
+        tech: ["React.js", "JavaScript", "TMDB API", "CSS"],
+        liveLink: null,
+        githubLink: "https://github.com/kummari-lohith/Netflix-Clonee"
+    }
+    {
         title: "Student Management System",
         description: "A comprehensive Java-based application for managing student records with CRUD operations. Features include student registration, course enrollment, grade management, and report generation using JDBC for database connectivity.",
         image: "images/project1.jpg",
@@ -52,21 +60,14 @@ const PROJECTS = [
         githubLink: "https://github.com/kummari-lohith/student-management-system" // Update with actual link
     },
     {
-        title: "Hall Ticket Generator",
-        description: "A streamlined web application designed with HTML and CSS to deliver an accurate, user-friendly interface for seamless hall ticket generation. Features clean design and responsive layout for easy access.",
-        image: "images/project2.jpg",
-        tech: ["HTML", "CSS", "JavaScript"],
-        liveLink: null, // Add if deployed
-        githubLink: "https://github.com/kummari-lohith/hall-ticket-generator" // Update with actual link
-    },
-    {
         title: "Portfolio Website",
         description: "A modern, responsive portfolio website showcasing projects, skills, and experience. Features smooth animations, typing effects, and glassmorphism design elements.",
         image: "images/project3.jpg",
         tech: ["HTML", "CSS", "JavaScript", "Responsive Design"],
         liveLink: null,
-        githubLink: "https://kummari-lohith.github.io/portfolio-/"
-    }
+        githubLink: "https://github.com/kummari-lohith/portfolio-"
+    },
+    
 ];
 
 // ===================================
