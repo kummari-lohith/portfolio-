@@ -65,7 +65,7 @@ const PROJECTS = [
         image: "images/project3.jpg",
         tech: ["HTML", "CSS", "JavaScript", "Responsive Design"],
         liveLink: null,
-        githubLink: null
+        githubLink: "https://kummari-lohith.github.io/portfolio-/"
     }
 ];
 
