@@ -50,7 +50,7 @@ const PROJECTS = [
         tech: ["React.js", "JavaScript", "TMDB API", "CSS"],
         liveLink: null,
         githubLink: "https://github.com/kummari-lohith/Netflix-Clonee"
-    }
+    },
     {
         title: "Student Management System",
         description: "A comprehensive Java-based application for managing student records with CRUD operations. Features include student registration, course enrollment, grade management, and report generation using JDBC for database connectivity.",
