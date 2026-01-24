@@ -7,7 +7,7 @@ const PERSONAL_INFO = {
     role: "Aspiring Java Developer",
     roles: ["Java Developer", "Full Stack Developer", "Web Developer", "Problem Solver"],
     description: "Aspiring Java Developer transitioning from Mechanical Engineering with a passion for building robust applications using Java, Spring Boot, and modern web technologies.",
-    resumeLink: "Kummari_Lohith_Resume_IT.pdf",
+    resumeLink: "Lohith_Resume_IT.pdf",
     email: "klohith9491@gmail.com",
     phone: "+91 9491706837",
     location: "Kurnool, Andhra Pradesh"
